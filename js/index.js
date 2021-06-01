@@ -1,4 +1,4 @@
-// this code does not compile
+// WARNING: THIS CODE DOES NOT COMPILE
 
 const zone0 = {
   value: 0,
