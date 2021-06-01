@@ -1,0 +1,12 @@
+{
+  "name": "axsys",
+  "version": "1.0.0",
+  "description": "This package has not, does not, and will never exist",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hermetechnics Inc.",
+  "license": "GPL-3.0-or-later"
+}
